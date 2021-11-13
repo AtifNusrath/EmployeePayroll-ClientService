@@ -1,0 +1,52 @@
+{
+    "employee": [
+      {
+        "_name": "Virat Kohli",
+        "_gender": "male",
+        "_department": [
+          "HR"
+        ],
+        "_salary": "30000",
+        "_startDate": "1 Jan 2020",
+        "_notes": "",
+        "id": 1,
+        "_profileUrl": "../assets/profile-images/Ellipse -5.png"
+      },
+      {
+        "_name": "Sachin Tendulkar",
+        "_gender": "male",
+        "_department": [
+          "HR"
+        ],
+        "_salary": "30000",
+        "_startDate": "1 Jan 2020",
+        "_notes": "",
+        "id": 2,
+        "_profileUrl": "../assets/profile-images/Ellipse -3.png"
+      },
+      {
+        "_name": "Ankita Singh",
+        "_gender": "female",
+        "_department": [
+          "HR"
+        ],
+        "_salary": "30000",
+        "_startDate": "1 Jan 2020",
+        "_notes": "",
+        "id": 3,
+        "_profileUrl": "../assets/profile-images/Ellipse -4.png"
+      },
+      {
+        "_name": "Rashmi",
+        "_gender": "female",
+        "_department": [
+          "HR"
+        ],
+        "_salary": "30000",
+        "_startDate": "1 Jan 2020",
+        "_notes": "",
+        "_profileUrl": "../assets/profile-images/Ellipse -4.png",
+        "id": 4
+      }
+    ]
+  }
